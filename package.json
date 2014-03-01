@@ -1,0 +1,8 @@
+{
+	"name": "QRClipboard",
+	"version": "0.0.1",
+	"dependencies": {
+		"jquery": "",
+		"qrcode-npm": ""
+	}
+}
