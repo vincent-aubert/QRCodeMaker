@@ -1,8 +1,5 @@
 QRCodeMaker
 ===========
 
-How to install ?
-
-Just do a npm install on the trunk folder
-
-
+To install, do a npm install.
+node-webkit/nw.exe to run the app.
